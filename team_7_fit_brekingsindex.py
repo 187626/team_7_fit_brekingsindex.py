@@ -17,8 +17,8 @@ team_nummer = 7
 bestandsnaam = "team_7_data.csv"
 
 # Bekende parameters van de opstelling
-d = 0.10          # Afstand tussen de spiegels in meter
-lamda = 632.8e-9  # Golflengte laser in meter
+d = 0.003        # dikte matriaal m
+lamda = 532.8e-9  # Golflengte laser in meter
 
 # MEETDATA INLEZEN
 # De CSV bevat de gemeten invalshoek, het aantal franjes
